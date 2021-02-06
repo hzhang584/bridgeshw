@@ -8,7 +8,7 @@ library(ggplot2)
 library(ggrepel)
 ```
 
-[https://github.com/hzhang584/bridgeshw/blob/master/README.md](%22https://github.com/hzhang584/bridgeshw/blob/master/README.md%22)
+[https://github.com/hzhang584/bridgeshw/blob/ec057aef5a5bd3d7eae4988285119d8981136e30/README.md](%22https://github.com/hzhang584/bridgeshw/blob/ec057aef5a5bd3d7eae4988285119d8981136e30/README.md%22)
 
 ### Downloaded all 14249 observations and 123 variables for Wisconsin in 2019
 
